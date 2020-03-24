@@ -19,9 +19,9 @@ No warranty, use at your own risks.
 Not Documented.
 
 # Use case
-Be able to have a dynamic extension which give visibility to the users on tha data scope loaded in the application.
-Can be useful for Dashboard but also in a multi-layered data architecture.
-My goal is to explore lineage capabilities for a more advanced use case.
+Give visibility to the users on the data scope loaded in the application by a dynamic extension.
+Useful for Dashboard but also in a multi-layered data architecture (Get some ETL info without open script).
+My goal is to explore Qlik Sense lineage capabilities.
 
 # Example
 
