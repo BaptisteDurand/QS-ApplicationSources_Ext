@@ -1,0 +1,6 @@
+AppSources.js;
+AppSources.qext;
+./lib/js/common.js;
+./lib/js/func.js
+./lib/js/properties.js
+./lib/css/AppSources.css
